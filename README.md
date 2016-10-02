@@ -8,4 +8,4 @@ Conclusion: DTrace may be usable, but it's likely that it will require a lot of 
 
 # perf
 In contrast to DTrace, perf actually seems to be the perfect tool for measuring CPU Clock Cycles. There's only one significant problem.
-![My image](http://imgur.com/UYnGXZv)
+![My image](http://i.imgur.com/UYnGXZv.png?1)
